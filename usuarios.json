@@ -1,0 +1,82 @@
+[
+    {
+        "id": "672d3d1281d2f",
+        "rank": "2",
+        "marca": "Bmw",
+        "modelo": "325i",
+        "ano": "2013",
+        "cor": "#b3b3b3"
+    },
+    {
+        "id": "672d3d5ce3c9f",
+        "rank": "3",
+        "marca": "Honda",
+        "modelo": "Civic G7",
+        "ano": "2005",
+        "cor": "#000000"
+    },
+    {
+        "id": "672d3dd4b2f78",
+        "rank": "4",
+        "marca": "Honda",
+        "modelo": "Civic G8",
+        "ano": "2014",
+        "cor": "#6e6e6e"
+    },
+    {
+        "id": "672d3e345c96c",
+        "rank": "1",
+        "marca": "Volkswagen",
+        "modelo": "Golf GTI",
+        "ano": "2017",
+        "cor": "#000000"
+    },
+    {
+        "id": "672d3ea9db8df",
+        "rank": "6",
+        "marca": "Volkswagen",
+        "modelo": "Variant",
+        "ano": "1973",
+        "cor": "#708f00"
+    },
+    {
+        "id": "672d3f1b229e9",
+        "rank": "7",
+        "marca": "Volkswagen",
+        "modelo": "Buggy",
+        "ano": "2018",
+        "cor": "#d5ce01"
+    },
+    {
+        "id": "672d3f76bbc8d",
+        "rank": "5",
+        "marca": "Audi",
+        "modelo": "TT RS ",
+        "ano": "2021",
+        "cor": "#575757"
+    },
+    {
+        "id": "672d3fae53d0a",
+        "rank": "8",
+        "marca": "Volkswagen",
+        "modelo": "Gol G6",
+        "ano": "2014",
+        "cor": "#e8e8e8"
+    },
+    {
+        "id": "672d3ffe75cd5",
+        "rank": "9",
+        "marca": "Fiat",
+        "modelo": "Punto",
+        "ano": "2013",
+        "cor": "#000980"
+    },
+    {
+        "id": "672d402e65811",
+        "rank": "10",
+        "marca": "Chevrolet",
+        "modelo": "Celta",
+        "ano": "2013",
+        "cor": "#a1a1a1"
+    }
+]
